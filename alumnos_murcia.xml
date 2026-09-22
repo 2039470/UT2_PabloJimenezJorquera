@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instituto>
+    <alumno id="1">
+        <nombre>Alejandro Martínez</nombre>
+        <ciclo>DAM</ciclo>
+    </alumno>
+    <alumno id="2">
+        <nombre>Lucía Sáez</nombre>
+        <ciclo>DAW</ciclo>
+    </alumno>
+</instituto>
